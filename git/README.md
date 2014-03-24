@@ -1,5 +1,3 @@
-My previous company did this Git workflow, so it's how I've always done it. It works well for me but I'm open to any improvements.
-
 1) Create a new branch off dev branch, name it something like jn-feature-branch.  
     `git checkout dev`  
     `git checkout -b jn-feature-branch`  
