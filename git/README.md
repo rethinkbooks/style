@@ -1,3 +1,6 @@
+
+![Git Workflow](https://dl.dropboxusercontent.com/u/25037474/git-workflow.png)
+
 1) Create a new branch off dev branch, name it something like jn-feature-branch.  
     `git checkout dev`  
     `git checkout -b jn-feature-branch`  
